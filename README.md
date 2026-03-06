@@ -1,4 +1,5 @@
 Changes for clone 1
+New line 1
 
 change 3 for branch1
 
