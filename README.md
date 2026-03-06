@@ -1,5 +1,5 @@
 
-Change 1 for branch2
+Change 2 for branch2
 
 # NOTICE
 
